@@ -1,1 +1,0 @@
-# detect_platform_helper
